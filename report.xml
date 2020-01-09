@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rspec" tests="20" skipped="0" failures="0" errors="0" time="0.006135" timestamp="2020-01-09T20:18:18-03:00" hostname="fractal-solutions">
+<properties>
+<property name="seed" value="1872"/>
+</properties>
+<testcase classname="spec.avengers_spec" name="AvengersHeadQuarter Must add avenger" file="./spec/avengers_spec.rb" time="0.000325"></testcase>
+<testcase classname="spec.avengers_spec" name="AvengersHeadQuarter Must add a list of avengers" file="./spec/avengers_spec.rb" time="0.001738"></testcase>
+<testcase classname="spec.avengers_spec" name="AvengersHeadQuarter Spiderman should be first on the list" file="./spec/avengers_spec.rb" time="0.000511"></testcase>
+<testcase classname="spec.avengers_spec" name="AvengersHeadQuarter Thor should be last on the list" file="./spec/avengers_spec.rb" time="0.000073"></testcase>
+<testcase classname="spec.avengers_spec" name="AvengersHeadQuarter Must contain last name" file="./spec/avengers_spec.rb" time="0.000480"></testcase>
+<testcase classname="spec.bank.withdraw_checking_account_spec" name="CheckingAccount Withdraw When the value is positive Then update balance" file="./spec/bank/withdraw_checking_account_spec.rb" time="0.000068"></testcase>
+<testcase classname="spec.bank.withdraw_checking_account_spec" name="CheckingAccount Withdraw When the balance is zeroed Then I see message" file="./spec/bank/withdraw_checking_account_spec.rb" time="0.000081"></testcase>
+<testcase classname="spec.bank.withdraw_checking_account_spec" name="CheckingAccount Withdraw When the balance is zeroed And the balance remains zeroed" file="./spec/bank/withdraw_checking_account_spec.rb" time="0.000056"></testcase>
+<testcase classname="spec.bank.withdraw_checking_account_spec" name="CheckingAccount Withdraw When the balance is insufficient Then I see message" file="./spec/bank/withdraw_checking_account_spec.rb" time="0.000059"></testcase>
+<testcase classname="spec.bank.withdraw_checking_account_spec" name="CheckingAccount Withdraw When the balance is insufficient And the balance remains zeroed" file="./spec/bank/withdraw_checking_account_spec.rb" time="0.000054"></testcase>
+<testcase classname="spec.bank.withdraw_checking_account_spec" name="CheckingAccount Withdraw When the withdrawal limit is reached Then I see message" file="./spec/bank/withdraw_checking_account_spec.rb" time="0.000059"></testcase>
+<testcase classname="spec.bank.withdraw_checking_account_spec" name="CheckingAccount Withdraw When the withdrawal limit is reached And the balance remains the same as the initial" file="./spec/bank/withdraw_checking_account_spec.rb" time="0.000055"></testcase>
+<testcase classname="spec.bank.withdraw_savings_account_spec" name="SavingsAccount Withdraw When the value is positive Then update balance" file="./spec/bank/withdraw_savings_account_spec.rb" time="0.000058"></testcase>
+<testcase classname="spec.bank.withdraw_savings_account_spec" name="SavingsAccount Withdraw When the balance is zeroed Then I see message" file="./spec/bank/withdraw_savings_account_spec.rb" time="0.000057"></testcase>
+<testcase classname="spec.bank.withdraw_savings_account_spec" name="SavingsAccount Withdraw When the balance is zeroed And the balance remains zeroed" file="./spec/bank/withdraw_savings_account_spec.rb" time="0.000054"></testcase>
+<testcase classname="spec.bank.withdraw_savings_account_spec" name="SavingsAccount Withdraw When the balance is insufficient Then I see message" file="./spec/bank/withdraw_savings_account_spec.rb" time="0.000056"></testcase>
+<testcase classname="spec.bank.withdraw_savings_account_spec" name="SavingsAccount Withdraw When the balance is insufficient And the balance remains zeroed" file="./spec/bank/withdraw_savings_account_spec.rb" time="0.000054"></testcase>
+<testcase classname="spec.bank.withdraw_savings_account_spec" name="SavingsAccount Withdraw When the withdrawal limit is reached Then I see message" file="./spec/bank/withdraw_savings_account_spec.rb" time="0.000057"></testcase>
+<testcase classname="spec.bank.withdraw_savings_account_spec" name="SavingsAccount Withdraw When the withdrawal limit is reached And the balance remains the same as the initial" file="./spec/bank/withdraw_savings_account_spec.rb" time="0.000054"></testcase>
+<testcase classname="spec.examples_spec" name="suite rspec sum values" file="./spec/examples_spec.rb" time="0.000053"></testcase>
+</testsuite>
